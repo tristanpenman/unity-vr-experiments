@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 using UnityEngine.XR.Interaction.Toolkit;
 
 [RequireComponent(typeof(XRRayInteractor))]
-public class RayTogglerExample : MonoBehaviour
+public class RayToggle : MonoBehaviour
 {
     [SerializeField] private InputActionReference activateReference = null;
 
