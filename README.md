@@ -19,6 +19,10 @@ Relevant XR package versions are:
 
 Demonstrates basic teleportation. Both controllers can be used to to teleport. The teleport destination is chosen using a ray that is only activated when the analog stick is pointing north (see [Assets/Scripts/RayToggle.cs](Assets/Scripts/RayToggle.cs)).
 
+### Grab Scene
+
+Similar to Teleporter Scene, but now there is an object that can be grabbed.
+
 ## License
 
 This code should be considered to be in the public domain.
