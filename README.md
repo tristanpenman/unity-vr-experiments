@@ -23,6 +23,14 @@ Demonstrates basic teleportation. Both controllers can be used to to teleport. T
 
 Similar to Teleporter Scene, but now there is an object that can be grabbed.
 
+### Magnesis Scene (work in progress)
+
+Similar to Grab Scene, but now XR Ray Interactors are used for both teleportation and interacting with objects. Which XR Ray Interactor is active is determined by whether an action button is pressed on the controller.
+
+Once captured, objects can be moved around using the analog stick (similar to the magnesis effect in Breath of the Wild). Objects simply fall to the ground when released.
+
+This scene incorporates haptic feedback, while objects are held.
+
 ## License
 
 This code should be considered to be in the public domain.
