@@ -189,31 +189,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8692975117379857535, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
       propertyPath: m_Name
-      value: Box1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8692975117379857536, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
-      propertyPath: m_TrackRotation
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8692975117379857536, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
-      propertyPath: m_InteractionLayers.m_Bits
-      value: 2
+      value: Grabbable1
       objectReference: {fileID: 0}
     - target: {fileID: 8692975117379857539, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
       propertyPath: m_RootOrder
       value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 8692975117379857539, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8692975117379857539, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8692975117379857539, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 8692975117379857539, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1570,31 +1550,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8692975117379857535, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
       propertyPath: m_Name
-      value: Box3
-      objectReference: {fileID: 0}
-    - target: {fileID: 8692975117379857536, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
-      propertyPath: m_TrackRotation
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8692975117379857536, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
-      propertyPath: m_InteractionLayers.m_Bits
-      value: 2
+      value: Grabbable3
       objectReference: {fileID: 0}
     - target: {fileID: 8692975117379857539, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
       propertyPath: m_RootOrder
       value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 8692975117379857539, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8692975117379857539, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8692975117379857539, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 8692975117379857539, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2386,7 +2346,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8692975117379857535, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
       propertyPath: m_Name
-      value: Box2
+      value: Grabbable2
       objectReference: {fileID: 0}
     - target: {fileID: 8692975117379857536, guid: 8e4889b5a656b7e4db3a2004d88149cf, type: 3}
       propertyPath: m_TrackRotation
